@@ -1,0 +1,15 @@
+Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em algoritmos de ordenação e eu gostaria de uma ajuda sua para criar 5 sugestões
+de nomes criativos para um podcast sobre algoritimos de ordenação com C#.
+
+O podcast vai falar sobre as vantagens de dominar o uso de  algoritmos para melhorar performance de aplicações de larga escala. 
+
+{REGRAS}
+
+- O nome deve ser enxuto, um nome e um subtítulo
+- O nome deve conter alguma palavra forte que remeta a backend
+
+{REGRAS NEGATIVAS}
+
+- Não quero que o título contenha palavras em inglês
+- Não quero que utilize nenhuma das palavras nessa lista: C#,  programador, desenvolvedor, engenheiro
+- Não utilize a palavra backend no nome nem qualquer variação dela     

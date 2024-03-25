@@ -1,0 +1,26 @@
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em backend cujo o nome é "Algoritmos em Ação: Rumo à Eficiência Máxima no Backend" e tem foco em algoritmos de ordenação Bubble Sort, Insertion Sort e Merge Sort,  com o público alvo de iniciantes em desenvolvimento com .NET C#.
+
+O formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[ALGORITIMO 1]
+[ALGORITIMO 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan
+- no bloco [CURIOSIDADE 1] substitua por uma curiosidade de sobre C# e algoritmos de ordenação
+- no bloco [ALGORITIMO 1] fale sobre Bubble sort e em qual cenário devemos utiliza-lo e cite uma função do C# que implementa este algoritmo
+- no bloco [ALGORITIMO 2] fale sobre Merge sort e em qual cenário devemos utiliza-lo e cite uma função do C# que implementa este algoritmo
+- no bloco [CURIOSIDADE 2] sobre uma ferramenta para fazer benchmark de performance
+- no bloco [FINALIZAÇÃO] substitua por uma despedida com o final 'Eu sou Jefferson e esse foi o .NETQuest dessa semana'
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Jefferson
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração
